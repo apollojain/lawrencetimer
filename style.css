@@ -1,0 +1,81 @@
+	
+		.styled {
+			width: 600px;
+			height: 120px;
+			border: 3px solid #cccccc;
+			padding: 5px;
+			font-family: Tahoma, sans-serif;
+			background-image: url(bg.gif);
+			background-position: bottom right;
+			background-repeat: no-repeat;
+		}
+		.btn, .btn:visited, .btn:focus, .btn2:hover {
+		  font-family: Arial;
+		  color: #ffffff;
+		  font-size: 20px;
+		  background: #3333ff;
+		  padding: 10px 20px 10px 20px;
+		  text-decoration: none;
+		}
+
+		 .btn2, .btn:hover, .btn2:visited, .btn2:focus {
+		  background: #B8B8B8 ;
+		  text-decoration: none;
+		  color:#ffffff;
+		}
+
+		body {
+			background-image:url('http://media.circlepix.com/media/tours/2013/feb/27/88E6PH/88E6PH_still_s18.jpg');
+			background-size:100% 800px;
+			padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+
+		}
+		#myForm{
+			color: white;
+			font-family: 'Roboto', sans-serif;
+			font-size: 200px;
+			color:white; 
+		}
+		
+		#temperature{
+			
+			font-family: 'Roboto', sans-serif;
+			font-size: 300px;
+			color:white; 
+		
+		}
+		#mycity{
+			
+			font-family: 'Roboto', sans-serif;
+			font-size: 50px;
+			color:white; 
+		
+		}
+		#conditions{
+			
+			font-family: 'Roboto', sans-serif;
+			font-size: 75px;
+			color:white; 
+		
+		}
+		
+		#mydescription{
+			
+			font-family: 'Roboto', sans-serif;
+			font-size: 30px;
+			color:blue; 
+		
+		}
+
+		#activity{
+			font-family: 'Roboto', sans-serif;
+			
+			color:white; 
+
+		}
+
+		.formstuff{
+			width: 250px;
+			margin: 5px;
+
+		}
